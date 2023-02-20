@@ -1,2 +1,1 @@
-# Dentistry-Hub-
-Dentistry-Hub DBMS
+Dentistry-Hub DBMS Manager for clinics and doctors
